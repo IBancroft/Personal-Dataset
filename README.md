@@ -1,5 +1,6 @@
 # 2020 Formula 1 Overtaking
 # Motivation
+Over the last five years I have really gotten interested in Formula 1 and learning as much as I could about it. So much of the sport nowadays is based on collecting as much data as possible, and running simulations on that data, and generating more data from that, that it only made sense to use it as the topic for a data related project. Formula 1 is also very interesting to look at as a sport because by no means is the ability of the driver directly related to the results that they get. The performance of the car usually has a larger impact on the outcome of a race. This makes comparing drivers to each other very difficult.
 # Data Process
 # Visualization
 ![2020 Formula 1 Grid Position vs. Finishing Position](https://github.com/IBancroft/Personal-Dataset/blob/main/drivers2.png?raw=true)
